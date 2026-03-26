@@ -21,24 +21,24 @@ This is a GUI-based Packet Sniffer built using Python. It captures and analyzes 
 
 ## Installation
 
-```bash
+bash
 pip install -r requirements.txt
-```
+
 
 ##  Usage
 
-```bash
+bash
 sudo python3 sniffer.py
-```
+
 
 ## Project Structure
 
-```
+
 sniffer_project/
  ├── sniffer.py
  ├── requirements.txt
  └── README.md
-```
+
 
 ## Author
 
