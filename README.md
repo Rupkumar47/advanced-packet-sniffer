@@ -31,10 +31,9 @@ bash
 sudo python3 sniffer.py
 
 
-# Project Structure
+## Project Structure
 
-
-## sniffer_project/
+sniffer_project/
  ├── sniffer.py
  ├── requirements.txt
  └── README.md
