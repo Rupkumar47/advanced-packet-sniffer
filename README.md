@@ -6,11 +6,11 @@ This is a GUI-based Packet Sniffer built using Python. It captures and analyzes 
 
 # Features
 
-* Packet sniffing using Scapy
-* GUI interface using Tkinter
-* Colorful output using Colorama
-* Start/Stop functionality
-* Logs saved to file
+Packet sniffing using Scapy
+GUI interface using Tkinter
+Colorful output using Colorama
+Start/Stop functionality
+Logs saved to file
 
 ## Technologies Used
 
