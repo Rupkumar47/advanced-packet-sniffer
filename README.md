@@ -14,10 +14,10 @@ Logs saved to file
 
 ## Technologies Used
 
-* Python
-* Scapy
-* Tkinter
-* Colorama
+Python
+Scapy
+Tkinter
+Colorama
 
 ## Installation
 
